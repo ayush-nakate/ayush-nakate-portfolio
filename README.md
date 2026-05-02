@@ -61,7 +61,18 @@ A Raspberry Pi and Arduino-based robot designed to assist with campus navigation
 
 This website is deployed using GitHub Pages.
 
+## Author
+
+**Ayush Nakate**  
+Information Technology Student  
+University of Toledo  
+
+- GitHub: [ayush-nakate](https://github.com/ayush-nakate)
+- LinkedIn: [Ayush Nakate](https://www.linkedin.com/in/ayush-nakate-04560a2b5/)
+- Portfolio: [ayush-nakate.github.io/ayush-nakate-portfolio](https://ayush-nakate.github.io/ayush-nakate-portfolio/)
+
 Live URL:
 
 ```text
 https://ayush-nakate.github.io/ayush-nakate-portfolio/
+
